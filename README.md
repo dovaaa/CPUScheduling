@@ -13,3 +13,6 @@ as well as a [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) showing th
 ## Screenshots
 ![Screenshot 1](docs/screenshot1.png)
 ![Screenshot 2](docs/screenshot2.png)
+
+
+I Was Co-Responsible for the AGAT Algorithm implementation which is a CPU Scheduling algorithm
